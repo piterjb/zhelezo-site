@@ -10,7 +10,6 @@ A modern and easy-to-use **Next.js 14 portfolio template** designed for develope
 
 Get started with this template and showcase your work effortlessly! 🚀
 
-https://github.com/namanbarkiya/minimal-next-portfolio/assets/82203888/f93bf5ca-c2bd-4fe5-a413-1050ebf6cf78
 
 ## Components
 
