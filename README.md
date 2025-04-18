@@ -2,8 +2,6 @@
 
 Welcome to my personal portfolio website repository! This modern, responsive portfolio is built with Next.js 14, showcasing my skills, projects, and professional journey.
 
-![Portfolio Preview](https://github.com/namanbarkiya/minimal-next-portfolio/assets/82203888/3fb9c94d-9d99-4e98-92ea-14aadc91b568)
-
 ## About This Site
 
 This portfolio website serves as a comprehensive showcase of my work and expertise. Built with the latest web technologies, it features:
